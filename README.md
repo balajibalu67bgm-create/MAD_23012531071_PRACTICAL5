@@ -15,7 +15,7 @@ Material Design: The UI components are styled using Material Design principles, 
 Screenshots:
 Login Screen
 
-![image alt]()
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL5/blob/58dff1d308964cb7503baa7141e6a6726adbc122/Screenshot%202025-11-29%20111028.png)
 
 Registration Screen
 
